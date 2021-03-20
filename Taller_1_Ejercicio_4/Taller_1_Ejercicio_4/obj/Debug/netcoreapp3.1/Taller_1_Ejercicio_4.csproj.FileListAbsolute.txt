@@ -1,0 +1,12 @@
+C:\Users\Steven\Documents\C#\Taller_1_Ejercicio_4\Taller_1_Ejercicio_4\bin\Debug\netcoreapp3.1\Taller_1_Ejercicio_4.exe
+C:\Users\Steven\Documents\C#\Taller_1_Ejercicio_4\Taller_1_Ejercicio_4\bin\Debug\netcoreapp3.1\Taller_1_Ejercicio_4.deps.json
+C:\Users\Steven\Documents\C#\Taller_1_Ejercicio_4\Taller_1_Ejercicio_4\bin\Debug\netcoreapp3.1\Taller_1_Ejercicio_4.runtimeconfig.json
+C:\Users\Steven\Documents\C#\Taller_1_Ejercicio_4\Taller_1_Ejercicio_4\bin\Debug\netcoreapp3.1\Taller_1_Ejercicio_4.runtimeconfig.dev.json
+C:\Users\Steven\Documents\C#\Taller_1_Ejercicio_4\Taller_1_Ejercicio_4\bin\Debug\netcoreapp3.1\Taller_1_Ejercicio_4.dll
+C:\Users\Steven\Documents\C#\Taller_1_Ejercicio_4\Taller_1_Ejercicio_4\bin\Debug\netcoreapp3.1\Taller_1_Ejercicio_4.pdb
+C:\Users\Steven\Documents\C#\Taller_1_Ejercicio_4\Taller_1_Ejercicio_4\obj\Debug\netcoreapp3.1\Taller_1_Ejercicio_4.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\C#\Taller_1_Ejercicio_4\Taller_1_Ejercicio_4\obj\Debug\netcoreapp3.1\Taller_1_Ejercicio_4.AssemblyInfo.cs
+C:\Users\Steven\Documents\C#\Taller_1_Ejercicio_4\Taller_1_Ejercicio_4\obj\Debug\netcoreapp3.1\Taller_1_Ejercicio_4.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\C#\Taller_1_Ejercicio_4\Taller_1_Ejercicio_4\obj\Debug\netcoreapp3.1\Taller_1_Ejercicio_4.dll
+C:\Users\Steven\Documents\C#\Taller_1_Ejercicio_4\Taller_1_Ejercicio_4\obj\Debug\netcoreapp3.1\Taller_1_Ejercicio_4.pdb
+C:\Users\Steven\Documents\C#\Taller_1_Ejercicio_4\Taller_1_Ejercicio_4\obj\Debug\netcoreapp3.1\Taller_1_Ejercicio_4.genruntimeconfig.cache
